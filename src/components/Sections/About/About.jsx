@@ -1,4 +1,5 @@
 import React from 'react';
+import ME from '../../../assets/me.png';
 import { StyledAboutDiv, StyledAboutSection, StyledImage, StyledImageDiv } from './About.styled';
 import AboutCards from './AboutCards';
 
@@ -11,7 +12,7 @@ export default function About() {
       <StyledAboutDiv className="container">
         <StyledImageDiv>
           <StyledImage>
-            <img src="" alt="About me" />
+            <img src={ME} alt="It's me" />
           </StyledImage>
         </StyledImageDiv>
 

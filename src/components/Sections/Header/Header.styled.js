@@ -19,11 +19,11 @@ export const StyledImgDiv = styled.div`
   border-radius: 12rem 12rem 0 0;
   background: linear-gradient(var(--color-primary), transparent);
   width: 22rem;
-  heigh: 30rem;
+  height: 30rem;
   position: absolute;
   left: 50%;
   transform: translateX(-50%);
-  overflow: hidden:
+  overflow: hidden;
 `;
 
 export const StyledSocialDiv = styled.div`
