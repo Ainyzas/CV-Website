@@ -20,11 +20,16 @@ export const StyledImageDiv = styled.div`
 export const StyledImage = styled.div`
   border-radius: 2rem;
   overflow: hidden;
-  transform: rotate(10deg);
-  transition: var(--transition);
+  height: 101%;
+  transform: translateX(0);
+  transition: all 1000ms ease;
 
   :hover {
-    transform: rotate(0);
+    transform: translate(2rem, -2rem) rotate(360deg);
+  }
+
+  img {
+    height: 101%;
   }
 `;
 

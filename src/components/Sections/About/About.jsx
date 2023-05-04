@@ -1,5 +1,5 @@
 import React from 'react';
-import ME from '../../../assets/me.png';
+import ME from '../../../assets/temporary.png';
 import { StyledAboutDiv, StyledAboutSection, StyledImage, StyledImageDiv } from './About.styled';
 import AboutCards from './AboutCards';
 
