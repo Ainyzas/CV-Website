@@ -30,6 +30,7 @@ export default function Skills() {
             <SkillsArticle skill="REST API" level="Experienced" />
             <SkillsArticle skill="MongoDB NOSQL" level="Experienced" />
             <SkillsArticle skill="PostgreSQL" level="Beginner" />
+            <SkillsArticle skill="Java" level="Experienced" />
           </StyledSkillsContent>
         </StyledSkillsCard>
       </StyledSkillsDiv>

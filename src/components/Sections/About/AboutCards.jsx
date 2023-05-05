@@ -32,9 +32,12 @@ export default function AboutCards() {
       </StyledTextCards>
 
       <p>
-        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Asperiores facilis dicta
-        voluptatum, quisquam odio illo nam saepe pariatur, maiores error exercitationem? Consectetur
-        dolores rerum quis recusandae repudiandae est accusantium a?
+        I am a Junior Full-Stack(ish) Web Developer with solid experience in programming languages such as JavaScript,
+        Java and C++. I have studied specifically Web Developement for over a year now and have worked on various
+        projects involving technologies such as React, Node.js and both MongoDB and PostgreSQL. I focus on always
+        learning something new and trying to find new ways to improve my web projects. Additionally, thanks to my recent
+        team project I got to participate as a key team player and learn the ins and outs of working on a project with a
+        sizeable team.
       </p>
       <a href="#contact" className="btn btn-primary">
         Contact Me
