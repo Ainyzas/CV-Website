@@ -1,5 +1,5 @@
 import CV from '../../../assets/cv.pdf';
-import ME from '../../../assets/me.png';
+import Me from '../../../assets/me-main.png';
 import React from 'react';
 import { StyledHeaderDiv, StyledContactDiv, StyledImgDiv, StyledHeader } from './Header.styled';
 import HeaderSocials from './HeaderSocials';
@@ -22,7 +22,7 @@ export default function Header() {
         </StyledContactDiv>
 
         <StyledImgDiv>
-          <img src={ME} alt="it's me" />
+          <img src={Me} alt="it's me" />
         </StyledImgDiv>
 
         <HeaderSocials />
