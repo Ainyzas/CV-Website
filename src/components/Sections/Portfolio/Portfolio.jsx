@@ -13,7 +13,7 @@ const projects = [
     name: 'Beauty Salon',
     image: BeautySalon,
     gitLink: 'https://github.com/Ainyzas/beauty-salon-app',
-    siteLink: 'https://beauty-salon-app.up.railway.app/',
+    siteLink: 'https://beauty-salon-app-main.vercel.app/',
   },
   {
     id: 2,
