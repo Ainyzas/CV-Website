@@ -7,6 +7,7 @@ import AutoserviceApp from '../../../assets/autoservice-app.png';
 import WeatherApp from '../../../assets/weather-app.png';
 
 const projects = [
+<<<<<<< HEAD
     {
         id: 1,
         name: 'MB "SIHAUS" Home Interior',
@@ -33,6 +34,44 @@ const projects = [
         gitLink: 'https://github.com/Ainyzas/Weather-App',
         siteLink: 'https://weatherforecast225.netlify.app/',
     },
+=======
+  {
+    id: 1,
+    name: 'Beauty Salon',
+    image: BeautySalon,
+    gitLink: 'https://github.com/Ainyzas/beauty-salon-app',
+    siteLink: 'https://beauty-salon-app-main.vercel.app/',
+  },
+  {
+    id: 2,
+    name: 'Autoservice Site (Key Contributor)',
+    image: AutoserviceApp,
+    gitLink: 'https://github.com/ryckutis/React-Autoservice',
+    siteLink: 'https://react-autoservice.vercel.app/',
+  },
+  {
+    id: 3,
+    name: 'Weather Site',
+    image: WeatherApp,
+    gitLink: 'https://github.com/Ainyzas/Weather-App',
+    siteLink: 'https://weatherforecast225.netlify.app/',
+  },
+  {
+    id: 4,
+    name: 'Social Media Posts',
+    image: SocialMedia,
+    gitLink: 'https://github.com/Ainyzas/social-media-app',
+    siteLink: 'https://social-media-app-ainyzas.vercel.app/auth/signin',
+  },
+
+  {
+    id: 5,
+    name: 'Quiz Site',
+    image: QuizApp,
+    gitLink: 'https://github.com/Ainyzas/quiz-app',
+    siteLink: 'https://full-stack-quizes.netlify.app/',
+  },
+>>>>>>> f6384bdcc23ba601d718817ba140ae99a401b718
 ];
 
 export default function Portfolio() {
